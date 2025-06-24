@@ -1,5 +1,10 @@
 # IESopt Project Template
 
+> [!CAUTION]
+> This is experimental and work-in-progress, so if you are just starting out consider doing the steps yourself/manually to get to know them once.
+
+## Overview
+
 This allows setting up pre-defined project structures for IESopt projects.
 
 > [!IMPORTANT]
