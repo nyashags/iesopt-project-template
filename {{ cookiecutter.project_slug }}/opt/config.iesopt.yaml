@@ -21,10 +21,11 @@ config:
     data: example.csv
   # -------------------------------------------------------------------------- #
   paths:
-    files: files/data/
+    files: data/timeseries/
+    components: data/components/
+    parameters: data/parameters/
+    templates: templates/
     results: out/
-    components: files/model/
-    templates: files/templates/
 
 # ::: -------------------------------------------------------------------- ::: #
 # ::: >>> SECTION | ENERGY CARRIERS <<<                                    ::: #
