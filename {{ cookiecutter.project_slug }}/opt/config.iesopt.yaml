@@ -2,9 +2,10 @@
 # ::: >>> SECTION | MAIN CONFIGURATION <<<                                 ::: #
 # ::: -------------------------------------------------------------------- ::: #
 config:
-  name:
-    model: {{ cookiecutter.project_slug }}
-    scenario: Basic
+  general:
+    name:
+      model: {{ cookiecutter.project_slug }}
+      scenario: Basic
   # -------------------------------------------------------------------------- #
   optimization:
     problem_type: LP
